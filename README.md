@@ -158,9 +158,7 @@ and Seattle. Examining operating costs, revenue structures, and fare policies ma
 financial conditions contribute to, or result from, the transit inequities observed.
 
 ## 6. Figures 
-(Red - proportion of individuals whose household income is below 100% of the federal poverty
-threshold
-Blue - % of workers whose total commute time is 60 minutes or longer)
+(Legend: Red - proportion of individuals whose household income is below 100% of the federal poverty threshold, Blue - % of workers whose total commute time is 60 minutes or longer)
 
 - **Boston, MA**
   
