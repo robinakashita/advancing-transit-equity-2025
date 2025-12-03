@@ -179,8 +179,8 @@ financial conditions contribute to, or result from, the transit inequities obser
 
 - **Summary Statistics by Region**
 
-![Summary Statistics](figures/Summary_Statistics.png)
+![Summary Statistics](figures/summary_statistics.png)
 
 - **Pearson Correlation**
 
-![Pearson Correlation](figures/Pearson_Correlation.png)
+![Pearson Correlation](figures/correlation.png)
