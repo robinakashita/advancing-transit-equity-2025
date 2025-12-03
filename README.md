@@ -143,9 +143,9 @@ These statistical indicators allow for direct comparison across cities.
 
 Based on the current datasets:
 
-- Washington DC and New York City display substantially higher mean poverty ratios (mid-30% range) and extreme commute rates (≈38% or higher).
+- Washington DC and New York City display substantially higher mean poverty ratios (mid-30% range) and extreme commute rates (≈ 38% or higher).
 
-- Boston and Seattle exhibit much lower levels on both metrics (≈10% for poverty and long commutes).
+- Boston and Seattle exhibit much lower levels on both metrics (≈ 10% for poverty and long commutes).
 
 - Correlation patterns differ strongly by city:
 
