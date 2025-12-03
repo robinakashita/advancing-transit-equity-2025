@@ -47,7 +47,7 @@ Each region’s dataset contains variables such as:
 
 - workers_60minCommute_ratio — proportion of the labor force with commutes ≥ 60 minutes
 
-- Additional contextual variables (e.g., zero-car households, population density)
+- Additional contextual variables (e.g. zero-car households, population density)
 
 Preprocessing steps include:
 
