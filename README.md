@@ -176,11 +176,3 @@ financial conditions contribute to, or result from, the transit inequities obser
 - **Seattle, WA**
 
 ![Seattle, WA](figures/Seattle_WA.png)
-
-- **Summary Statistics by Region**
-
-![Summary Statistics](figures/summary_statistics.png)
-
-- **Pearson Correlation**
-
-![Pearson Correlation](figures/correlation.png)
