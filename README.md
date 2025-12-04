@@ -187,4 +187,8 @@ financial conditions contribute to, or result from, the transit inequities obser
   
 ![Correlation by Region](figures/corr.png)
 
- I would like to thank my teammates, Andrew Park, Jinie Chon, Marcelo Green, and Shivani Sharma, for their support throughout this project.
+---
+
+## 7. Acknowledgements
+
+I would like to thank my teammates, Andrew Park, Jinie Chon, Marcelo Green, and Shivani Sharma, for their support throughout this project. I would also like to express my gratitude to MIT, MIT TPP, MIT IDSS, our challenge partner, TransitMatters, and to our event sponsors: the MIT JTL-Transit Lab, TechCongress, MIT Energy Initiative, MIT Climate Policy Center, Mit Washington Office, MIT Center for Sustainability Science and Strategy, MIT Sloan Sustainability Initiative, MIT Initiative on the Digital Economy, and the MIT Center for Energy and Environmental Policy Research.
